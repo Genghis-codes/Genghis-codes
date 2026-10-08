@@ -10,7 +10,6 @@ I build decentralized applications on Stellar. My work covers Soroban smart cont
 
 - **Smart contracts:** Soroban contracts in Rust, including escrow, token streaming, treasury vaults, prediction markets, identity registries, and token locks
 - **Backend:** REST APIs, off-chain indexing, and proof-verification services with Node.js, Express, TypeScript, PostgreSQL, and Redis
-- **Frontend & mobile:** web dApps with React, Next.js, and Tailwind, and mobile apps with React Native
 - **Zero-knowledge:** off-chain Noir proof generation and on-chain proof anchoring
 - **Payments & DeFi:** wallets, USDC payments, payroll and vesting streams, and pay-as-you-go micropayments
 
